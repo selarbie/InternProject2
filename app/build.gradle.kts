@@ -7,6 +7,10 @@ android {
     namespace = "com.example.internproject2"
     compileSdk = 33
 
+    buildFeatures{
+        dataBinding = true
+        viewBinding = true
+    }
     defaultConfig {
         applicationId = "com.example.internproject2"
         minSdk = 24
@@ -26,6 +30,7 @@ android {
             )
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
