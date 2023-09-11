@@ -2,4 +2,17 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="RedPol">#DC143C</color>
+    <color name="GreenIt">#008C45</color>
+    <color name="RedIt">#CD212A</color>
+    <color name="RedAu">#EF3340</color>
+    <color name="RedMad">#F9423A</color>
+    <color name="GreenMad">#00843D</color>
+    <color name="RedThai">#EF3340</color>
+    <color name="BlueThai">#00247D</color>
+    <color name="RedDen">#C8102E</color>
+    <color name="RedSwit">#DA291C</color>
+    <color name="OrCol">#FFCD00</color>
+    <color name="BlueCol">#003087</color>
+    <color name="RedCol">#C8102E</color>
 </resources>
